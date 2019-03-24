@@ -1,2 +1,4 @@
 hello
 world
+txt
+foo
